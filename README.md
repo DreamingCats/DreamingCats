@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 😄Chase dream. 
+😄Producing bugs!
+😄整点让人眼前一亮的,或是让人眼前一黑的
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DreamingCats.DreamingCats)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamingcats&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamingcats&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
