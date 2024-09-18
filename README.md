@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-😄Chase dream. 
-😄Producing bugs!
-😄整点让人眼前一亮的,或是让人眼前一黑的
+😄Chase dream.  
+😄Producing bugs!  
+😄整点让人眼前一亮的,或是让人眼前一黑的  
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DreamingCats.DreamingCats)
 
